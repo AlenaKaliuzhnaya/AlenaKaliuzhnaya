@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Write a bit about your background.
+Share some fun facts about yourself.
+Tell people that you wish to participate in outsourcing projects.
+List your primary tech skills.
+Include a link to your portfolio, resume, and LinkedIn.
+You can also set your location, but it’s not critical. However, if you are willing to relocate, this can be seen as a big plus by employers and is worth adding to your README.md.
